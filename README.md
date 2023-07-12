@@ -1,4 +1,4 @@
-# MNumerical Computing Course Project
+# Numerical Computing Course Project
 ### image filters using convolution operations and mathematical kernels
 
 written in Julia Programming Language
